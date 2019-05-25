@@ -1,3 +1,3 @@
 # Datacamp_projects
 
-Datacamp_projects completed
+Datacamp projects completed.
