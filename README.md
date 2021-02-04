@@ -1,3 +1,8 @@
-# Datacamp_projects
+# Datacamp
 
-Datacamp projects completed.
+<details>
+  <summary>Datacamp projects completed.</summary>
+  
+  # Projects
+  1. Give Life: Predict Blood Donations
+</details>
