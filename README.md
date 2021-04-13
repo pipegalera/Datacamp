@@ -25,21 +25,9 @@
   3. Linear Classifiers in Python
   4. Machine Learning with Tree-Based Models in Python
   5. Extreme Gradient Boosting with XGBoost
-  6. 
-  7. 
-  8. 
-  9. Machine Learning for Time Series Data in Python
+  6. Machine Learning for Time Series Data in Python
 
   Extra courses: 
   1. Experimental Design in Python
 
-</details>
-
-Datacamp courses Notes:
-
-<details>
-  <summary>Supervised Learning with scikit-learn</summary>
-  
-
-  
 </details>
